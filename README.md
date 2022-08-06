@@ -1,6 +1,6 @@
 ### I'm Tasin Mir
 
-<h3 align="left">A passionate Back-End Node.js Software Engineer</h3>
+<h3 align="left">A passionate Back-End Node.js Software developer</h3>
 
 I'm Tasin Mir,
 I am currently versity student. I am a self-learner on software Engineering.
